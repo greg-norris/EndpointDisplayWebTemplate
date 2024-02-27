@@ -1,0 +1,5 @@
+﻿using EndpointDisplayWebTemplate;
+
+
+
+Network.IntializeNetwork();
